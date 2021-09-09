@@ -1,4 +1,4 @@
-# SuperMarket-App
+# SuperMarket POS Software - by Zeus Apps
 
 ![Screenshot_1](https://user-images.githubusercontent.com/87208083/132678198-8cb4d6d2-68ac-47fc-8290-0dcf7067f7c3.png)
 
