@@ -5,40 +5,21 @@
 Welcome to the Github page of my second ever app-
 A supermarket POS Software.
 
-Features:
-
+## Features
 
 A useful multi-functional toolbar
 ![Screenshot_2](https://user-images.githubusercontent.com/87208083/132678527-7e1a401a-ad86-4305-b5f2-2bff3f4333eb.png)
-For the various functions the app can perform,
-
-
-
-A petite but useful Menu Bar
-![Screenshot_3](https://user-images.githubusercontent.com/87208083/132678759-00904df0-8cb6-4b3d-af68-eb70e664447b.png)
-,
-
-
-Login/Logout
-![Screenshot_5](https://user-images.githubusercontent.com/87208083/132679339-158b20a4-3722-453b-8ccc-0cabf20ff4c9.png)
-,
-
-
 
 An editable/resizeable grid-based layout
 ![Screenshot_4](https://user-images.githubusercontent.com/87208083/132678893-5d12f105-d438-481b-915f-69efc3e2d42d.png)
-Probably the app's main highlight,
 
-And Much More!
+And other stuff.
 
-Other Useful info:
+# Installation
+Get the zip file with Binaries for **WINDOWS** Only:
 
-->Stores Previous order history in a text file
+Download the x32 Zip file in the main branch^
 
-->Stores Login/Logout info in a text file ALSO
+# Contributing
+Do anything you want and submit a Pull Request or something idk lol
 
-->Simple GUI, enabling easy navigation
-
-->The Grid Cells are resizable
-
-->This is just the beta of the app, so feel free to post issues/fix some(would be greatly appreciated)
